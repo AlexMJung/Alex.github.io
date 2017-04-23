@@ -1,0 +1,16 @@
+Body{
+Background-Color:#111111;
+Text-color:#ffffff;
+font-family: Helvetica, "Times New Roman";
+}
+
+.headshot{
+Border: 4px solid #ffffff;
+Padding:5px 10px 5px 10px;
+Margin: 10px 10px 10px 10px;
+}
+
+a{
+Text-decoration: none
+Text-color:#ffff00
+}
