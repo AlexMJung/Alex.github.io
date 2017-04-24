@@ -15,10 +15,7 @@ Text-decoration: none
 Text-color:#ffff00
 }
 
-#email {
-  padding: 0, 15px, 0, 15px;
-}
-
-#contacts{
-  padding: 0, 15px, 0, 15px;
+.contacts{
+  display:inline;
+  Padding:5px 10px 5px 10px;
 }
