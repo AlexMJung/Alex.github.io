@@ -11,11 +11,11 @@ Margin: 10px 10px 10px 10px;
 }
 
 a{
-Text-decoration: none
-Text-color:#ffff00
+Text-decoration: none;
+Text-color:#ffff00;
 }
 
 .contacts{
-  display: inline;
+  display: inline-block;
   Padding:0px, 10px, 0px, 30px;
 }
