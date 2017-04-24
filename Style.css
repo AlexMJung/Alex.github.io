@@ -15,3 +15,7 @@ Text-decoration: none;
 Text-color:#ffff00;
 }
 
+ul{
+  display: inline;
+  Font-size: 18px;
+}
