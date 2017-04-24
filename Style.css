@@ -1,7 +1,12 @@
 Body{
 Background-Color:#111111;
-Text-color:#ffffff;
+color:#ffffff;
 font-family: Helvetica, "Times New Roman";
+}
+
+.LOGO{
+  height: 50px;
+  width: 50px;
 }
 
 .headshot{
@@ -12,7 +17,7 @@ Margin: 10px 10px 10px 10px;
 
 a{
 Text-decoration: none;
-Text-color:#ffff00;
+color:#ffff00;
 }
 
 ul{
