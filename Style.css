@@ -21,6 +21,6 @@ color:#ffff00;
 }
 
 li{
-  display: inline;
+  display: inline-block;
   Font-size: 18px;
 }
