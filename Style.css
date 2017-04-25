@@ -24,6 +24,6 @@ color:#ffff00;
 
 li{
   display: inline-block;
-  Padding: 0, 10px, 0, 10px; 
+  word-space: 15px; 
   Font-size: 18px;
 }
