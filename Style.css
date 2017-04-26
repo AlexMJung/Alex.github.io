@@ -6,6 +6,9 @@ font-family: Helvetica, "Times New Roman";
 Width: 100%;
 Height: 400px;
 }
+.Header h1{
+ Font-size: 36px;
+}
 
 Body{
 Text-align: Center;
