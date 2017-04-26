@@ -29,12 +29,11 @@ Margin: 10px, 10px, 10px, 10px;
 
 a{
 Text-decoration: none;
-color:#ffff00;
+color:#ffffff;
 }
 
 li{
   display: inline-block;
-  word-spacing: 15px; 
   Font-size: 18px;
 }
 
