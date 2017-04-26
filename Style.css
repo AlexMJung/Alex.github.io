@@ -8,11 +8,12 @@ Height: 200px;
 }
 
 .header h1 {
- text-size: 72px;
+ font-size: 72px;
 }
 
 .header h2 {
-text-size: 24px;
+font-size: 24px;
+ text-decoration: none;
 }
 
 
@@ -51,4 +52,8 @@ h2{
   Text-align: Center;
   Text-decoration: underline;
   Font-size: 24px;
+}
+
+.nav p{
+ display:inline
 }
