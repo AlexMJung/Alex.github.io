@@ -16,7 +16,6 @@ Width: 100%;
 
 .LOGO{
   Float: left;
-  margin-right:15px;
   Margin-left: 200px;
   height: 75px;
   width: 50px;
@@ -33,7 +32,7 @@ Text-decoration: none;
 color:#ffffff;
 }
 
-.row p{
+.row{
    Font-size: 18px;
 }
 
