@@ -7,8 +7,12 @@ Width: 100%;
 Height: 200px;
 }
 
-h1 {
+.header h1 {
  text-size: 72px;
+}
+
+.header h2 {
+text-size: 24px;
 }
 
 
