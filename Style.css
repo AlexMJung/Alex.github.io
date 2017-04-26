@@ -7,12 +7,12 @@ Width: 100%;
 Height: 200px;
 }
 
-h1{
+h1 {
  Font-size: 36px;
 }
 
 
-Body{
+Body {
 Text-align: Center;
 background-Color:#111111;
 color:#ffffff;
@@ -22,7 +22,7 @@ Width: 100%;
 
 .LOGO{
   Float: left;
-  Margin-left: 200px;
+  Margin-left: 100px;
   height: 75px;
   width: 50px;
 }
@@ -31,7 +31,7 @@ Width: 100%;
   Float: right;
 Border: 4px solid #ffffff;
 Padding:5px, 10px, 5px, 10px;
-Margin: 10px, 10px, 10px, 10px;
+Margin: 10px, 75px, 10px, 10px;
 }
 
 a{
