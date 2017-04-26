@@ -1,5 +1,6 @@
 .header{
 background-Color:#111111;
+background-image: url("005-wood-melamine-subttle-pattern-background-pat.jpg");
 color:#ffffff;
 font-family: Helvetica, "Times New Roman";
 Width: 1000px;
@@ -7,7 +8,6 @@ Width: 1000px;
 
 Body{
 background-Color:#111111;
-background-image: url("005-wood-melamine-subttle-pattern-background-pat.jpg");
 color:#ffffff;
 font-family: Helvetica, "Times New Roman";
 Width: 1000px;
