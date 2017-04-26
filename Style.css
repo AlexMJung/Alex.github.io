@@ -37,3 +37,9 @@ li{
   word-spacing: 15px; 
   Font-size: 18px;
 }
+
+.pa{
+  Text-align: Center;
+  Text-decoration: underline;
+  Font-size: 24px;
+}
