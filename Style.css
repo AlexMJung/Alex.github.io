@@ -7,9 +7,10 @@ Width: 100%;
 Height: 200px;
 }
 
-.header h1{
+h1{
  Font-size: 36px;
 }
+
 
 Body{
 Text-align: Center;
@@ -42,7 +43,7 @@ color:#ffffff;
    Font-size: 18px;
 }
 
-.pa{
+h2{
   Text-align: Center;
   Text-decoration: underline;
   Font-size: 24px;
