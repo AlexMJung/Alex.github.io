@@ -22,6 +22,7 @@ Width: 100%;
 }
 
 .headshot{
+  Float: right;
 Border: 4px solid #ffffff;
 Padding:5px, 10px, 5px, 10px;
 Margin: 10px, 10px, 10px, 10px;
