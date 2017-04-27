@@ -55,10 +55,9 @@ h3{
 }
 
 .headshot{
-  Float: right;
+Padding:10px, 10px, 10px, 10px;
 Border: 4px solid #ffffff;
-Padding:5px, 10px, 5px, 10px;
-Margin: 10px, 75px, 10px, 10px;
+Margin: 30px, 10px, 10px, 10px;
 }
 
 a{
