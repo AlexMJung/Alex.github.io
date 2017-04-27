@@ -4,12 +4,12 @@ background-image: url("005-wood-melamine-subttle-pattern-background-pat.jpg");
 color:#ffffff;
 font-family: Helvetica, "Times New Roman";
 Width: 100%;
-Height: 150px;
+Height: 175px;
 }
 
-.linkedIn{
-max-width:10%
-max-height:10%
+.header linkedIn {
+max-width:50%;
+max-height:50%;
 }
 
 .header h1 {
