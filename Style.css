@@ -30,7 +30,6 @@ font-size: 24px;
  text-decoration: none;
 }
 
-
 Body {
 Text-align: Center;
 background-Color:#111111;
@@ -38,6 +37,11 @@ background-image: url("image.png");
 color:#ffffff;
 font-family: Helvetica, "Times New Roman";
 Width: 100%;
+}
+
+h3{
+ Text-decoration:underline;
+ font-size: 22px;
 }
 
 .LOGO{
