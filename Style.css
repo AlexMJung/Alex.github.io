@@ -7,6 +7,11 @@ Width: 100%;
 Height: 200px;
 }
 
+.header h2 {
+font-size: 24px;
+ text-decoration: none;
+}
+
 .header a{
  font-size: 18px;
 }
@@ -27,11 +32,6 @@ Height: 200px;
 
 .header h1 {
  font-size: 72px;
-}
-
-.header h2 {
-font-size: 24px;
- text-decoration: none;
 }
 
 Body {
