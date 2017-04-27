@@ -71,3 +71,8 @@ h2{
 .nav p{
  display:inline
 }
+
+ul
+{
+    list-style-type: none;
+}
