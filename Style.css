@@ -7,6 +7,11 @@ Width: 100%;
 Height: 210px;
 }
 
+.content {
+ border: 5px solid white;
+border-radius: 2px;
+}
+
 .header h2 {
 font-size: 24px;
  text-decoration: none;
@@ -41,8 +46,6 @@ background-image: url("image.png");
 color:#ffffff;
 font-family: Helvetica, "Times New Roman";
 Width: 100%;
-border: 5px solid white;
-border-radius: 2px;
 }
 
 h3{
