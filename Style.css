@@ -41,6 +41,7 @@ background-image: url("image.png");
 color:#ffffff;
 font-family: Helvetica, "Times New Roman";
 Width: 100%;
+ Border: 4px #000000
 }
 
 h3{
