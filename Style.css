@@ -10,7 +10,8 @@ Height: 210px;
 .content {
  border: 5px solid white;
 border-radius: 2px;
-Width: 750px
+Left-Margin: 50px;
+Right-Margin 50px;
 }
 
 .header h2 {
