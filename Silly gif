@@ -1,3 +1,53 @@
-
-Silly Gif!
+!DOCTYPE html>
+<html>
+	<head>	
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+		<!-- jQuery library -->
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.0/jquery.min.js"></script>
+		<!-- Latest compiled JavaScript -->
+		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+	        <link rel="stylesheet" type="text/css" href="Style.css">
+	</head>
+	<body>
+	  <div class="header">
+	<section class="container">	  
+		  <div class="row">
+		     <div class="col-sm-3">
+			   </div>
+		     <div class="col-sm-6">
+			  <h1> Alex Jung</h1> 
+			  </div>
+		     <div class="col-sm-3">	  
+         <a href="resume.html"><img class="headshot" src="thumbs_up.jpg" height="100px" width="100px" alt="Alex Jung headshot" ></a>
+			  </div>
+		</div>
+	   <section class="container">
+		   <div class="row">
+		     <div class="col-sm-2">
+			   </div>
+		     <div class="col-sm-4">
+		  <h2>(763) 226-6415</h2> 
+		     </div>
+		     <div class="col-sm-4">
+		   <h2><a id="email" href="mailto:Alexandermjung89@gmail.com">Alexandermjung89@gmail.com</a></h2>
+		     </div>
+		  <div class="col-sm-2">
+			   </div>	   
+		   </div> 
+			<section class="container">
+			 <div class="row">
+			  <div class="col-sm-4">
+			        <a href="resume.html">Home </a>
+			  </div>
+			  <div class="col-sm-4">
+			        <a href="https://www.linkedin.com/in/alexander-jung-6a012362/" Target="_Blank"><img src="LinkedIn_Logo.png" alt="Linkedin profile link" height="40px" width="40px"> </a>
+			  </div>
+			  <div class="col-sm-4">
+				<a href="References.html">References</a>
+			  </div>
+			</div>
+<h2>Easter Egg Gif!</h2>
 <iframe src="//giphy.com/embed/XcWg6Dmed8Qi4" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/XcWg6Dmed8Qi4">via GIPHY</a></p>
+<h2>You found it!</h2>
+</body>
+</html>
