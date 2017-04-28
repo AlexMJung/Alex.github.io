@@ -53,6 +53,14 @@ h3{
  font-size: 30px;
 }
 
+h4{
+ font-size: 24px;
+}
+
+h5{
+ font-size: 20px;
+}
+
 .LOGO{
   Float: left;
   height: 75px;
@@ -78,10 +86,6 @@ h2{
   Text-align: Center;
   Text-decoration: underline;
   Font-size: 24px;
-}
-
-.nav p{
- display:inline
 }
 
 ul
